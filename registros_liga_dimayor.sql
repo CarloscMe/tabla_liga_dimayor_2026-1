@@ -1,3 +1,47 @@
+----------------------------------------
+-- insertar registros a tbl_ciudades --
+----------------------------------------
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('050001','Medellín');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('080001','Barranquilla');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('520001','Pasto');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('760000','Cali');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('170001','Manizales');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('730001','Ibagué');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('110110','Bogotá');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('110811','Bogotá');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('760006','Cali');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('110151','Bogotá');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('050006','Medellín');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('050010','Medellín');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('680001','Bucaramanga');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('500001','Villavicencio');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('110231','Bogotá');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('230001','Montería');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('200001','Valledupar');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('150001','Tunja');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('540001','cúcuta');
+
+INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('660000','Pereira');
+
 ---------------------------------------
 -- insertar registros a tbl_equipos --
 ---------------------------------------
@@ -380,7 +424,7 @@ INSERT INTO tbl_partidos(fld_codigohome,fld_codigovis,fld_golesmarc,fld_golesrec
 
 INSERT INTO tbl_partidos(fld_codigohome,fld_codigovis,fld_golesmarc,fld_golesrec,fld_fechapartido) VALUES('cct','amc',2,0,'5-04-2026');
 
-INSERT INTO tbl_partidos(fld_codigohome,fld_codigovis,fld_golesmarc,fld_golesrec,fld_fechapartido) VALUES('dpr','pnc',0,0,'10-04-2026');
+INSERT INTO tbl_partidos(fld_codigohome,fld_codigovis,fld_golesmarc,fld_golesrec,fld_fechapartido) VALUES('dpr','onc',0,0,'10-04-2026');
 
 INSERT INTO tbl_partidos(fld_codigohome,fld_codigovis,fld_golesmarc,fld_golesrec,fld_fechapartido) VALUES('dpt','tml',1,0,'10-04-2026');
 
@@ -464,48 +508,5 @@ INSERT INTO tbl_partidos(fld_codigohome,fld_codigovis,fld_golesmarc,fld_golesrec
 
 INSERT INTO tbl_partidos(fld_codigohome,fld_codigovis,fld_golesmarc,fld_golesrec,fld_fechapartido) VALUES('amc','dpr',1,0,'3-05-2026');
 
-----------------------------------------
--- insertar registros a tbl_ciudades --
-----------------------------------------
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('050001','Medellín');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('080001','Barranquilla');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('520001','Pasto');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('760000','Cali');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('170001','Manizales');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('730001','Ibagué');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('110110','Bogotá');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('110811','Bogotá');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('760006','Cali');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('110151','Bogotá');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('050006','Medellín');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('050010','Medellín');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('680001','Bucaramanga');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('500001','Villavicencio');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('110231','Bogotá');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('230001','Montería');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('200001','Valledupar');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('150001','Tunja');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('540001','cúcuta');
-
-INSERT INTO tbl_ciudades(fld_codigocid,fld_nombre) VALUES('660000','Pereira');
 
 
